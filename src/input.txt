@@ -1,25 +1,17 @@
+insert Aaron Judge
+insert Yordan Alvarez
+insert Mike Trout
+insert Juan Soto
+insert Freddie Freeman
 
-insert 111
-             insert 23
+search Mike Trout
+search Shohei Ohtani
 
-insert 99
-insert         4
+print
+
+remove Yordan Alvarez
+remove Shohei Ohtani
+
+print
 
 isEmpty
-
-    insert     111
-
-print
-
-
-search 9
-
-remove 23
-
-remove 4
-remove 999999
-isEmptyasfh
-print
-
-insert 123
-print

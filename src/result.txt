@@ -1,0 +1,21 @@
+insert Aaron Judge
+insert Yordan Alvarez
+insert Mike Trout
+insert Juan Soto
+insert Freddie Freeman
+found Mike Trout | Rank: 3 | Max EV: 114.4 | Avg EV: 91.7 | Hard Hit %: 51.3 | Max Dist: 472
+search failed: could not find "Shohei Ohtani"
+print: (In Ascending order by avgEV)
+Juan Soto | Rank: 41 | Max EV: 113.2 | Avg EV: 90.8 | Hard Hit %: 47.7 | Max Dist: 451
+Freddie Freeman | Rank: 67 | Max EV: 112.3 | Avg EV: 91.3 | Hard Hit %: 47.7 | Max Dist: 446
+Mike Trout | Rank: 3 | Max EV: 114.4 | Avg EV: 91.7 | Hard Hit %: 51.3 | Max Dist: 472
+Yordan Alvarez | Rank: 2 | Max EV: 117.4 | Avg EV: 95.5 | Hard Hit %: 61.2 | Max Dist: 469
+Aaron Judge | Rank: 1 | Max EV: 118.4 | Avg EV: 95.8 | Hard Hit %: 61.6 | Max Dist: 465
+removed Yordan Alvarez
+remove failed: could not find "Shohei Ohtani"
+print: (In Ascending order by avgEV)
+Juan Soto | Rank: 41 | Max EV: 113.2 | Avg EV: 90.8 | Hard Hit %: 47.7 | Max Dist: 451
+Freddie Freeman | Rank: 67 | Max EV: 112.3 | Avg EV: 91.3 | Hard Hit %: 47.7 | Max Dist: 446
+Mike Trout | Rank: 3 | Max EV: 114.4 | Avg EV: 91.7 | Hard Hit %: 51.3 | Max Dist: 472
+Aaron Judge | Rank: 1 | Max EV: 118.4 | Avg EV: 95.8 | Hard Hit %: 61.6 | Max Dist: 465
+Invalid Command
